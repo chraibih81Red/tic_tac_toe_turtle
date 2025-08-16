@@ -40,5 +40,4 @@ The game detects wins and draws automatically and displays the result before clo
 Make sure Python 3.x is installed on your system.
 
 ### 2. Install Dependencies
-```bash
 pip install freegames
