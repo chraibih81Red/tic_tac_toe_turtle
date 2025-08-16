@@ -18,7 +18,7 @@ The game detects wins and draws automatically and displays the result before clo
 ---
 
 ## 🧠 Skills Demonstrated
-- Event handling with `onscreenclick`
+- Event handling with onscreenclick
 - Real-time graphics rendering
 - Game loop logic
 - Win and draw detection
