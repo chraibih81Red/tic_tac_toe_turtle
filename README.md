@@ -1,6 +1,6 @@
 # Tic Tac Toe with Turtle Graphics
 
-A Python implementation of the classic Tic Tac Toe game, developed with **PyCharm 2024.3.1.1**, using the built-in `turtle` graphics library and the `freegames` module.
+A Python implementation of the classic Tic Tac Toe game, developed with **PyCharm 2024.3.1.1**, using the built-in turtle graphics library and the freegames module.
 
 ## 🎮 Game Overview
 Two players can take turns playing on the same computer.  
